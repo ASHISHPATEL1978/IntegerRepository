@@ -1,5 +1,7 @@
 package datatypeinteger;
 
+/* Block Comment Added */
+
 public class DataTypeInteger
 {
     public static void main ( String[] args )
